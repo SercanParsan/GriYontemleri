@@ -1,0 +1,10 @@
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\bin\Debug\Görüntü İsleme 2014010811004.exe.config
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\bin\Debug\Görüntü İsleme 2014010811004.exe
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\bin\Debug\Görüntü İsleme 2014010811004.pdb
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü İsleme 2014010811004.csprojResolveAssemblyReference.cache
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü_İsleme_2014010811004.Form1.resources
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü_İsleme_2014010811004.Properties.Resources.resources
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü İsleme 2014010811004.csproj.GenerateResource.Cache
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü İsleme 2014010811004.exe
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü İsleme 2014010811004.pdb
+C:\Users\Parsanoğlu\Desktop\Görüntü İsleme 2014010811004\Görüntü İsleme 2014010811004\obj\Debug\Görüntü_İsleme_2014010811004.Form2.resources
